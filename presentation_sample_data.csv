@@ -1,0 +1,23 @@
+PL Number,Item Name,Vendor Name,Price,Currency,Effective Date
+SRV-001,Enterprise Server,ServerCo,5000.00,USD,2026-05-01
+SRV001,Enterprise Server,ServerCo,5000.00,USD,2026-05-01
+srv-001,Enterprise Server,ServerCo,4800.00,USD,2026-06-01
+SRV 001,Enterprise Server,ServerCo,4800.00,USD,2026-06-01
+NET-100,Gigabit Switch,NetGear,350.00,USD,2026-04-15
+NET-I00,Gigabit Switch,NetGear,350.00,USD,2026-04-15
+NET-1OO,Gigabit Switch,NetGear,350.00,USD,2026-04-15
+DB-050,Database License,DataSys,1200.00,EUR,2026-01-10
+DB-50,Database License,DataSys,1200.00,EUR,2026-01-10
+CLD-001,Cloud Storage 1TB,Cloudify,15.00,USD,2026-05-01
+cld-001,Cloud Storage 1TB,Cloudify,15.00,USD,2026-05-01
+SEC-002,Firewall Appliance,SecureNet,2500.00,USD,2026-02-20
+SEC-O02,Firewall Appliance,SecureNet,2500.00,USD,2026-02-20
+SEC-002,Firewall Appliance,SecureNet,2500.00,USD,2026-02-20
+CBL-010,Cat6 Cable 100m,WireWorks,80.00,USD,2026-03-05
+CBL010,Cat6 Cable 100m,WireWorks,80.00,USD,2026-03-05
+MON-024,24" Monitor,DisplayTech,200.00,USD,2026-05-10
+MON-024,24 Inch Monitor,DisplayTech,200.00,USD,2026-05-10
+PRN-101,Laser Printer,PrintSolutions,450.00,USD,2026-01-15
+prn-101,Laser Printer,PrintSolutions,450.00,USD,2026-01-15
+UPS-500,Battery Backup,PowerSafe,120.00,USD,2026-04-01
+UPS-500,Battery Backup,PowerSafe,120.00,USD,2026-04-01

@@ -1,0 +1,12 @@
+PL Number,Item Name,Vendor Name,Price,Currency,Effective Date
+PL-001,Laptop Pro,TechCorp,1500.00,USD,2026-01-01
+PL001,Laptop Pro,TechCorp,1500.00,USD,2026-01-01
+pl_001,Laptop Pro,TechCorp,1450.00,USD,2026-02-01
+PL 001,Laptop Pro,TechCorp,1450.00,USD,2026-02-01
+PL-002,Monitor 4K,VisionTech,450.00,USD,2026-01-15
+PL002,Monitor 4K,VisionTech,450.00,USD,2026-01-15
+PL-003,Keyboard,KeyMakers,100.00,USD,2026-01-20
+PL-OO3,Keyboard,KeyMakers,100.00,USD,2026-01-20
+PL-010,Mouse,ClickTech,50.00,USD,2026-01-25
+PL10,Mouse,ClickTech,50.00,USD,2026-01-25
+PL-999,Unique Item,SoloVendor,99.99,USD,2026-03-01

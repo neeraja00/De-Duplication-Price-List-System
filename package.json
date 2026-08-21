@@ -1,0 +1,8 @@
+{
+  "name": "de-duplication-price-list-system",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "vercel-build": "cd backend && composer install --no-dev --prefer-dist --ignore-platform-reqs && npm install && npm run build"
+  }
+}
